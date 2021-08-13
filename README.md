@@ -1,5 +1,7 @@
 # Cdonut
 
+Running code spins this donut in your command line! Be careful!
+
                                $@$$$$$$$$$$$$@@@$
                             $$$$####********##$$$$$$
                          #$$$$##****!!!!!!!!**###$$$$$
