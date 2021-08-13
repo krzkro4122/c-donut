@@ -1,6 +1,6 @@
 # Cdonut
 
-Running code spins this donut in your command line! Be careful!
+Running code spins this donut in your command line! Go and C for yourself!
 
                                $@$$$$$$$$$$$$@@@$
                             $$$$####********##$$$$$$
